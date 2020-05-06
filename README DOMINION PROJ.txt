@@ -1,0 +1,2 @@
+I did this project for fun and to prove to one of my roommates I could. It takes some filters and then generates a random deck
+from the information in the csv linked here https://github.com/cypressf/dominion/blob/master/cards.csv
